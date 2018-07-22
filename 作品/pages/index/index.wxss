@@ -1,0 +1,4 @@
+/**index.wxss**/
+.search{
+  border: 1rpx solid #000;
+}

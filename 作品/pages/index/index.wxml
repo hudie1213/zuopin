@@ -1,0 +1,4 @@
+<!--index.wxml-->
+<input class='search'  auto-focus='true' bindinput="searchInput"  placeholder="请输入搜索内容" ></input>
+<button bindtap='search'>搜索</button>
+<view>{{a}}</view>
